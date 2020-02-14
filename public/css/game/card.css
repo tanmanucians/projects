@@ -1,0 +1,90 @@
+.text {
+  margin-left: 12%;
+}
+.icon-img {
+  padding-top: 9px;
+  margin: 7px;
+}
+.img-en {
+  padding-top: 10px;
+}
+.img-green {
+  width: 8%; 
+  float: right; 
+  margin: 15px;
+}
+.basic {
+  margin-left: 15%; 
+}
+.cards {
+  color: forestgreen; 
+  float:right; 
+  font-weight: bold; 
+  font-size: 20px;
+  margin-right: 130px;
+}
+.score {
+  color: forestgreen; 
+  float:left; 
+  font-weight: bold; 
+  font-size: 20px;
+}
+.time {
+  color: forestgreen; 
+  text-align:center;
+  font-weight: bold; 
+  font-size: 20px;
+}
+.word {
+  margin-left: 15%; 
+  padding-top: 5px; 
+  font-weight: bold; 
+  font-size: 20px;
+}
+.img-card {
+  text-align: center; 
+  margin-bottom: 25px;
+}
+.style-img {
+  width: 300px; 
+  height: 250px;
+}
+.button-answer {
+  padding-right: 47%;
+  float: right;
+}
+.answer-size {
+  font-weight: bold;
+  color: darkgray;
+}
+.style-next {
+  width: 100px; 
+  height: 40px;
+  border-radius: 10px; 
+  text-align: center;
+}
+.img-footer {
+  width: 7%; 
+  float: left; 
+  margin: 15px;
+  padding-top: 48px;
+}
+.backgroud {
+  width: 675px;
+  height: 210px;
+  margin-left: 25%;
+  padding-top: 80px;
+  background: url('/images/backgroud.png');
+}
+.backgroud h2 {
+  margin-right: 18%;
+  padding-top: 50px;
+  font-size: 30px;
+  color: forestgreen;
+  font-family: tahoma;
+  text-align: center;
+}
+.backgroud p {
+  color:red;
+  font-size: 35px;
+}

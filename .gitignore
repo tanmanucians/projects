@@ -1,0 +1,24 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# jetbrains workplace folder
+.idea
+
+# system windows file
+desktop.ini
+
+# vscode workspace folder
+.vscode
+
+# cache
+.cache/
